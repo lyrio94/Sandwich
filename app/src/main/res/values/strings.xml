@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sandwich</string>
+    <string name="order_sandwiches">Order Sandwiches</string>
+    <string name="one_sandwich">One Sandwich</string>
+    <string name="six_sandwiches">Six Sandwiches</string>
+    <string name="twelve_sandwiches">Twelve Sandwiches</string>
+    <string name="choose_flavor">Choose Flavor</string>
+    <string name="chicken">Chicken</string>
+    <string name="ham">Ham</string>
+    <string name="meat">Meat</string>
+    <string name="salad">Salad</string>
+    <string name="shredded_beef">Shredded Beef</string>
+    <string name="special_meat">Special Meat</string>
+    <string name="cancel">Cancel</string>
+    <string name="next">Next</string>
+    <string name="choose_pickup_date">Choose Pickup Date</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="send">Send Order to Another App</string>
+    <string name="quantity">Quantity</string>
+    <string name="flavor">Flavor</string>
+    <string name="pickup_date">Pickup date</string>
+    <string name="subtotal_price">Subtotal %s</string>
+    <string name="total_price">Total %s</string>
+    <string name="new_sandwich_order">New Sandwich Order</string>
+    <string name="order_details">Quantity: %1$s \n Flavor: %2$s \nPickup date: %3$s \n
+        Total: %4$s \n\n Thank you!</string>
+        <plurals name="sandwich">
+            <item quantity="one">%d sandwich</item>
+            <item quantity="other">%d sandwiches</item>
+        </plurals>
+</resources>
